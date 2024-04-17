@@ -33,7 +33,18 @@ Below is a preview of how the webpage should look like:
 
 ## Credits
 
-No specific credits mentioned in this repository.
+A starter code was provided in Canvas with this link: [GitHub/urban-octo-telegram Starter Code](https://github.com/coding-boot-camp/urban-octo-telegram)
+
+Credits to the following for guidance and enlightenment:
+
+- Classmates
+- TA and Instructors
+- Slack Overflow
+- Youtube Videos on Various Topics
+  - [SuperSimpleDev](https://youtu.be/G3e-cpL7ofc?si=12bwDwgdpohK3NCh)
+  - [Sean C Davis](https://youtu.be/Ljj1wGFJqPY?si=Q5DNDI0As-KIuGFV)
+  - [dcode](https://youtu.be/SHIMUoAJHYU?si=5wTqD46eEQSzsaaP)
+  - [Before Semicolon](https://youtu.be/lVmX-7XEyd4?si=NzGodV204LTqvErY)
 
 ## License
 
