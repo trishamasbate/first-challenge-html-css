@@ -17,13 +17,19 @@ This project does not require any specific installation steps.
 
 ## Usage
 
-Click on the link to navigate to the site:
+Click on the link to navigate to the site: [Horiseon SEO Management & Marketing](https://trishamasbate.github.io/first-challenge-html-css/)
+
+Click on the link to navigate to the GitHub repository: [GitHub Repository for Horiseon Refactor](https://trishamasbate.github.io/first-challenge-html-css/)
 
 The navigation bars located at the top-right corner of the page serve as direct links to specific sections of the content below the header:
 
 - "Search Engine Optimization" directs to the first article on the left
 - "Online Reputation Management" links to the second article immediately following the first
 - "Social Media Marketing" takes you to the third and final article at the bottom of the page
+
+Below is a preview of how the webpage should look like:
+
+![horiseon-screenshot](./assets/images/horiseon-seo-management-marketing.png)
 
 ## Credits
 
