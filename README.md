@@ -41,10 +41,10 @@ Credits to the following for guidance and enlightenment:
 - TA and Instructors
 - Slack Overflow
 - Youtube Videos on Various Topics
-  - [SuperSimpleDev](https://youtu.be/G3e-cpL7ofc?si=12bwDwgdpohK3NCh)
-  - [Sean C Davis](https://youtu.be/Ljj1wGFJqPY?si=Q5DNDI0As-KIuGFV)
-  - [dcode](https://youtu.be/SHIMUoAJHYU?si=5wTqD46eEQSzsaaP)
-  - [Before Semicolon](https://youtu.be/lVmX-7XEyd4?si=NzGodV204LTqvErY)
+  - [HTML & CSS Full Course](https://youtu.be/G3e-cpL7ofc?si=12bwDwgdpohK3NCh)
+  - [HTML Tags: Main, Header, Footer, and Aside](https://youtu.be/lVmX-7XEyd4?si=NzGodV204LTqvErY)
+  - [The Difference between IDs and Classes](https://youtu.be/SHIMUoAJHYU?si=5wTqD46eEQSzsaaP)
+  - [Adding Images to GitHub README Files](https://youtu.be/Ljj1wGFJqPY?si=Q5DNDI0As-KIuGFV)
 
 ## License
 
