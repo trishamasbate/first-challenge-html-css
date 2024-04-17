@@ -19,7 +19,7 @@ This project does not require any specific installation steps.
 
 Click on the link to navigate to the site: [Horiseon SEO Management & Marketing](https://trishamasbate.github.io/first-challenge-html-css/)
 
-Click on the link to navigate to the GitHub repository: [GitHub Repository for Horiseon Refactor](https://trishamasbate.github.io/first-challenge-html-css/)
+Click on the link to navigate to the GitHub repository: [GitHub Repository for Horiseon Refactor](https://github.com/trishamasbate/first-challenge-html-css/)
 
 The navigation bars located at the top-right corner of the page serve as direct links to specific sections of the content below the header:
 
