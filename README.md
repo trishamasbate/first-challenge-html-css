@@ -2,26 +2,33 @@
 
 ## Description
 
-This is a refactor of the the base code of the marketing agency, Horiseon. Changes are implemented to follow accessibility standards by consolidating HTML and CSS elements making it more optimized for search engines. Elements are also specified, and all modifications are catered as requested.
+This repository contains a refactored version of the base code for the marketing agency, Horiseon. The primary goal of this refactor is to enhance the codebase to align with accesibility standards. Changes have been made to improve the overall accesibility of the website.
 
-A brief and explanatory title has been assigned.
+Key improvements include:
+
+- Assigning a descriptive title to provide more context
+- Incorporating alternative attributes to images for better accessibility
+- Refactoring HTML and CSS elements to optimize the page for search engines
+- Streamlining and consolidating for easier maintenance and updates
 
 ## Installation
 
-N/A
+This project does not require any specific installation steps.
 
 ## Usage
 
 Click on the link to navigate to the site:
 
-<a href: LINK>Horiseon: Optimize, Manage, Market.</link>
+The navigation bars located at the top-right corner of the page serve as direct links to specific sections of the content below the header:
 
-The navigation bars on the top-right function as links that will direct the user to specific parts of the body directly below the header. The "Search Engine Optimization" links to the first article found on the left. "Online Reputation Management" links to the second article placed immediately after the first. "Social Media Marketing" links to the third and last article at the end.
+- "Search Engine Optimization" directs to the first article on the left
+- "Online Reputation Management" links to the second article immediately following the first
+- "Social Media Marketing" takes you to the third and final article at the bottom of the page
 
 ## Credits
 
-N/A
+No specific credits mentioned in this repository.
 
 ## License
 
-Please refer to the LICENSE in the repository.
+Please refer to the LICENSE file in the repository for more information.
